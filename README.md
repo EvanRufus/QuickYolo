@@ -1,5 +1,5 @@
 # QuickYolo
-This is a web/model for trying Yolo v5 / v8. 
+This is a web/model for trying Yolo v5 or v8. 
 You can upload your vedio or photo to test. 
 Have fun here!
 
